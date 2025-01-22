@@ -1,0 +1,7 @@
+meshio==5.3.5
+numpy==1.26.4
+petsc4py==3.20.5
+potpourri3d==1.1.0
+pyvista==0.43.5
+scipy==1.11.3
+tqdm==4.66.5
